@@ -1,4 +1,4 @@
-Microsoft has published the lab instructions and allfiles (lab code) for course 20703-2A to GitHub here: https://github.com/MicrosoftLearning/https://github.com/MicrosoftLearning/20703-IntegratingMDMandCloudServiceswithSCCM
+Microsoft has published the lab instructions and allfiles (lab code) for course 20703-2A to GitHub here: https://github.com/MicrosoftLearning/20703-IntegratingMDMandCloudServiceswithSCCM
 
 What are we doing? - To support course 20703-2A Integrating MDM and Cloud Services with System Center Configuration Manager, we will need to make frequent updates to the course content to keep it current with the Microsoft InTune and other cloud services used in the course. We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform. - We hope that this brings a sense of collaboration to the labs like we've never had before - when Office 365 changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source. Help your fellow MCTs.
 
