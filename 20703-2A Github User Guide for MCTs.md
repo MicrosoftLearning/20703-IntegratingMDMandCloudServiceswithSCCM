@@ -52,7 +52,7 @@ The Microsoft Learning team has created a solution that allows them to publish u
 
 -   Pandoc version 1.19.2
 
--   Windows PowerShell Community Extensions 3.2.0
+-   Windows PowerShell Community Extensions 3.2.2
 
 Once you sign up for GitHub and install the prerequisite software, the steps for downloading and printing the course-lab materials are the same for each course.
 
@@ -123,25 +123,17 @@ To install Pandoc, perform the following steps:
 
 4.  Click **Finish**.
 
-### Installing PowerShell Community Extensions 3.2.0
+### Installing PowerShell Community Extensions 3.2.2
 
-PowerShell Community Extensions (PSCX) is an open-source project that extends Windows PowerShell with scripts, cmdlets, functions, and other features. PSCX version 3.2.0 is the most current (as of 6/16/2016) PSCX version. You use PSCX to create the .zip files that contain your .docx files. Please note, if you do not install these extensions, the document-creation script fails.
+PowerShell Community Extensions (PSCX) is an open-source project that extends Windows PowerShell with scripts, cmdlets, functions, and other features. PSCX version 3.2.2 is the most current (as of 2/27/2018) PSCX version. You use PSCX to create the .zip files that contain your .docx files. Please note, if you do not install these extensions, the document-creation script fails. The PSCX files are make available through the PowerShell Gallery at https://www.powershellgallery.com/packages/Pscx/3.2.2.
 
-To install PSCX 3.2.0, perform the following steps:
-
-1.  <span id="to-install-pscx-3.2.0" class="anchor"></span>In your browser, navigate to [http://pscx.codeplex.com/releases](http://pscx.codeplex.com/releases/view/133199).
-
+To install PSCX 3.2.2, perform the following steps:
 <!-- -->
-
-1.  Under **RECOMMENDED DOWNLOAD**, click **Pscx-3.2.0.msi**.
-
-2.  When the **Pscx-3.2.0.msi** file has downloaded, double-click the file to start the setup, or click **Run** if you receive a prompt from Internet Explorer.
-
-3.  In the **PowerShell Community Extensions 3.2.0 Setup** dialog box, review the License Agreement, select **I accept the terms in the License Agreeement**, and then click **Install**.
-
-4.  If the **User Account Control** dialog box appears, click **Yes**.
-
-5.  Click **Finish**.
+1. Open Windows PowerShell as an administrator.
+2. Type **Install-Module -Name Pscx -RequiredVersion 3.2.2 -AllowClobber** and press Enter.
+3. If prompted, type **Y** to install a new NuGet provider version and press Enter.
+4. If prompted, type **Y** to allow the install from a untrusted repository and press Enter.
+5. Wait for the install to finish, and then close the Windows PowerShell Window.
 
 > **Important:** After you install Pandoc and PSCX, you must restart your computer to complete the installation. If you do not restart your computer, the document-creation script might fail.
 
