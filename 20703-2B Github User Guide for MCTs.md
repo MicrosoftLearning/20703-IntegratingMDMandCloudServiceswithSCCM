@@ -1,7 +1,7 @@
 GitHub User Guide for MCTs
 ==========================
 
-Cloud services, such as Microsoft InTune, are updated frequently. This leads to issues for Microsoft Certified Trainers (MCTs) when they teach courses, such as *20703-2B: Integrating MDM and Cloud Services with System Center Configuration Manager*, because lab steps change frequently as the service changes. Due to the frequency of the changes and the fact that there may not be any notification when changes occur, it can be difficult for the course development team to rapidly identify and address any lab changes.
+Cloud services, such as Microsoft InTune, are updated frequently. This leads to issues for Microsoft Certified Trainers (MCTs) when they teach courses, such as *20703-2B: Integrating Cloud Services with System Center Configuration Manager*, because lab steps change frequently as the service changes. Due to the frequency of the changes and the fact that there may not be any notification when changes occur, it can be difficult for the course development team to rapidly identify and address any lab changes.
 
 To address these issues, we are using GitHub to publish the lab steps and lab scripts for courses that cover cloud services like Office 365 or InTune. Using GitHub allows for collaboration between the course’s authors and MCTs to keep the content current with cloud platform changes. Using GitHub allows the MCTs to provide feedback and suggestions for lab changes, and then the course authors can update lab steps and scripts quickly and relatively easily.
 
