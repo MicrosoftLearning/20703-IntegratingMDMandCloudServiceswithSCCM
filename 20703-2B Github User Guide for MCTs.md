@@ -111,7 +111,7 @@ Pandoc is a tool that you can use to convert files from one format to another. I
 
 To install Pandoc, perform the following steps:
 
-1.  <span id="to-install-pandox-1.13.2" class="anchor"></span>In your browser, navigate to [https://GitHub.com/jgm/pandoc/releases](https://github.com/jgm/pandoc/releases/tag/1.13.2).
+1.  <span id="to-install-pandox-1.19.2" class="anchor"></span>In your browser, navigate to [https://GitHub.com/jgm/pandoc/releases](https://github.com/jgm/pandoc/releases/tag/1.19.2).
 
 <!-- -->
 
